@@ -168,7 +168,6 @@ def descomprimir_archivo(ArchivoComprimido, ArchivoDescomprimido):
             mensaje_descomprimido += nodo_actual[0]
             nodo_actual = nodo_raiz  # Restablecer a la raíz para buscar el próximo caracter
 
-
     # Escribir el mensaje descomprimido en el archivo de salida
     with open(ArchivoDescomprimido, 'w', encoding='utf-8') as archivo:
         archivo.write(mensaje_descomprimido)
