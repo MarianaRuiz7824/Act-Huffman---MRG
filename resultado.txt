@@ -1,0 +1,191 @@
+Número total de caracteres en el texto: 601827
+
+Caracteres y sus frecuencias:
+Caracter:  , Frecuencia: 99429
+Caracter: e, Frecuencia: 60098
+Caracter: t, Frecuencia: 42928
+Caracter: o, Frecuencia: 36931
+Caracter: a, Frecuencia: 36154
+Caracter: n, Frecuencia: 32002
+Caracter: i, Frecuencia: 29278
+Caracter: s, Frecuencia: 29013
+Caracter: r, Frecuencia: 28779
+Caracter: h, Frecuencia: 28004
+Caracter: d, Frecuencia: 20310
+Caracter: l, Frecuencia: 16954
+Caracter: u, Frecuencia: 13667
+Caracter: m, Frecuencia: 13508
+Caracter: c, Frecuencia: 12691
+Caracter: f, Frecuencia: 11360
+Caracter: w, Frecuencia: 10431
+Caracter: ,, Frecuencia: 10122
+Caracter: 
+, Frecuencia: 9920
+Caracter: y, Frecuencia: 9273
+Caracter: g, Frecuencia: 8687
+Caracter: p, Frecuencia: 8547
+Caracter: b, Frecuencia: 7131
+Caracter: v, Frecuencia: 5104
+Caracter: I, Frecuencia: 3274
+Caracter: ., Frecuencia: 3063
+Caracter: k, Frecuencia: 2733
+Caracter: ;, Frecuencia: 1567
+Caracter: T, Frecuencia: 975
+Caracter: x, Frecuencia: 850
+Caracter: _, Frecuencia: 816
+Caracter: j, Frecuencia: 646
+Caracter: H, Frecuencia: 550
+Caracter: q, Frecuencia: 514
+Caracter: A, Frecuencia: 452
+Caracter: “, Frecuencia: 390
+Caracter: E, Frecuencia: 378
+Caracter: -, Frecuencia: 354
+Caracter: B, Frecuencia: 353
+Caracter: ”, Frecuencia: 332
+Caracter: :, Frecuencia: 315
+Caracter: ’, Frecuencia: 309
+Caracter: G, Frecuencia: 234
+Caracter: Y, Frecuencia: 223
+Caracter: L, Frecuencia: 215
+Caracter: S, Frecuencia: 214
+Caracter: P, Frecuencia: 207
+Caracter: W, Frecuencia: 197
+Caracter: R, Frecuencia: 183
+Caracter: O, Frecuencia: 181
+Caracter: F, Frecuencia: 165
+Caracter: (, Frecuencia: 151
+Caracter: ), Frecuencia: 151
+Caracter: z, Frecuencia: 150
+Caracter: N, Frecuencia: 149
+Caracter: M, Frecuencia: 145
+Caracter: C, Frecuencia: 128
+Caracter: 1, Frecuencia: 117
+Caracter: D, Frecuencia: 111
+Caracter: U, Frecuencia: 97
+Caracter: V, Frecuencia: 58
+Caracter: ?, Frecuencia: 57
+Caracter: ™, Frecuencia: 57
+Caracter: J, Frecuencia: 43
+Caracter: 0, Frecuencia: 43
+Caracter: 7, Frecuencia: 41
+Caracter: 4, Frecuencia: 37
+Caracter: 5, Frecuencia: 32
+Caracter: 2, Frecuencia: 29
+Caracter: 3, Frecuencia: 28
+Caracter: 6, Frecuencia: 26
+Caracter: 9, Frecuencia: 18
+Caracter: [, Frecuencia: 17
+Caracter: ], Frecuencia: 17
+Caracter: —, Frecuencia: 17
+Caracter: 8, Frecuencia: 14
+Caracter: !, Frecuencia: 13
+Caracter: *, Frecuencia: 12
+Caracter: X, Frecuencia: 10
+Caracter: ‘, Frecuencia: 9
+Caracter: Q, Frecuencia: 7
+Caracter: K, Frecuencia: 6
+Caracter: /, Frecuencia: 6
+Caracter: ', Frecuencia: 4
+Caracter: æ, Frecuencia: 4
+Caracter: •, Frecuencia: 4
+Caracter: –, Frecuencia: 2
+Caracter: $, Frecuencia: 2
+Caracter: #, Frecuencia: 1
+Caracter: œ, Frecuencia: 1
+Caracter: &, Frecuencia: 1
+Caracter: %, Frecuencia: 1
+
+Árbol de Huffman (codificación):
+Caracter: r, Código Huffman: 0000
+Caracter: s, Código Huffman: 0001
+Caracter: i, Código Huffman: 0010
+Caracter: u, Código Huffman: 00110
+Caracter: l, Código Huffman: 00111
+Caracter: e, Código Huffman: 010
+Caracter: n, Código Huffman: 0110
+Caracter: p, Código Huffman: 011100
+Caracter: g, Código Huffman: 011101
+Caracter: S, Código Huffman: 01111000000
+Caracter: L, Código Huffman: 01111000001
+Caracter: Y, Código Huffman: 01111000010
+Caracter: D, Código Huffman: 011110000110
+Caracter: 3, Código Huffman: 01111000011100
+Caracter: 2, Código Huffman: 01111000011101
+Caracter: ?, Código Huffman: 0111100001111
+Caracter: A, Código Huffman: 0111100010
+Caracter: ™, Código Huffman: 0111100011000
+Caracter: V, Código Huffman: 0111100011001
+Caracter: 1, Código Huffman: 011110001101
+Caracter: G, Código Huffman: 01111000111
+Caracter: T, Código Huffman: 011110010
+Caracter: q, Código Huffman: 0111100110
+Caracter: H, Código Huffman: 0111100111
+Caracter: v, Código Huffman: 0111101
+Caracter: y, Código Huffman: 011111
+Caracter: a, Código Huffman: 1000
+Caracter: o, Código Huffman: 1001
+Caracter: 
+, Código Huffman: 101000
+Caracter: ,, Código Huffman: 101001
+Caracter: d, Código Huffman: 10101
+Caracter: t, Código Huffman: 1011
+Caracter:  , Código Huffman: 110
+Caracter: w, Código Huffman: 111000
+Caracter: C, Código Huffman: 111001000000
+Caracter: 8, Código Huffman: 111001000001000
+Caracter: #, Código Huffman: 1110010000010010000
+Caracter: %, Código Huffman: 1110010000010010001
+Caracter: $, Código Huffman: 111001000001001001
+Caracter: &, Código Huffman: 1110010000010010100
+Caracter: œ, Código Huffman: 1110010000010010101
+Caracter: –, Código Huffman: 111001000001001011
+Caracter: ', Código Huffman: 11100100000100110
+Caracter: æ, Código Huffman: 11100100000100111
+Caracter: 5, Código Huffman: 11100100000101
+Caracter: [, Código Huffman: 111001000001100
+Caracter: ], Código Huffman: 111001000001101
+Caracter: —, Código Huffman: 111001000001110
+Caracter: 9, Código Huffman: 111001000001111
+Caracter: M, Código Huffman: 111001000010
+Caracter: N, Código Huffman: 111001000011
+Caracter: z, Código Huffman: 111001000100
+Caracter: (, Código Huffman: 111001000101
+Caracter: ’, Código Huffman: 11100100011
+Caracter: ), Código Huffman: 111001001000
+Caracter: 4, Código Huffman: 11100100100100
+Caracter: 7, Código Huffman: 11100100100101
+Caracter: ‘, Código Huffman: 1110010010011000
+Caracter: X, Código Huffman: 1110010010011001
+Caracter: •, Código Huffman: 11100100100110100
+Caracter: /, Código Huffman: 11100100100110101
+Caracter: *, Código Huffman: 1110010010011011
+Caracter: 0, Código Huffman: 11100100100111
+Caracter: :, Código Huffman: 11100100101
+Caracter: j, Código Huffman: 1110010011
+Caracter: k, Código Huffman: 11100101
+Caracter: ”, Código Huffman: 11100110000
+Caracter: F, Código Huffman: 111001100010
+Caracter: O, Código Huffman: 111001100011
+Caracter: B, Código Huffman: 11100110010
+Caracter: -, Código Huffman: 11100110011
+Caracter: R, Código Huffman: 111001101000
+Caracter: J, Código Huffman: 11100110100100
+Caracter: !, Código Huffman: 1110011010010100
+Caracter: K, Código Huffman: 11100110100101010
+Caracter: Q, Código Huffman: 11100110100101011
+Caracter: 6, Código Huffman: 111001101001011
+Caracter: U, Código Huffman: 1110011010011
+Caracter: E, Código Huffman: 11100110101
+Caracter: “, Código Huffman: 11100110110
+Caracter: W, Código Huffman: 111001101110
+Caracter: P, Código Huffman: 111001101111
+Caracter: ., Código Huffman: 11100111
+Caracter: f, Código Huffman: 111010
+Caracter: c, Código Huffman: 111011
+Caracter: m, Código Huffman: 111100
+Caracter: ;, Código Huffman: 111101000
+Caracter: _, Código Huffman: 1111010010
+Caracter: x, Código Huffman: 1111010011
+Caracter: I, Código Huffman: 11110101
+Caracter: b, Código Huffman: 1111011
+Caracter: h, Código Huffman: 11111
